@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "b77d089ffed5cb27",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed5ad500e613cb69",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75065ebb16f5de4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "722485a4dd7f7904",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b2a438231f5d50b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fa51a94172a56e0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#idea",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce6ea04106717c4d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 212.49999809265137
+  },
+  "right": {
+    "id": "8c0ad7d765d1fb26",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebcdc813301f3970",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "582b731427b31aa6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2eabafb3ba308f9a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "f04de291c9fa21e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "129bed431ff26309",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0b2a438231f5d50b",
+  "lastOpenFiles": [
+    "Zettlekasten/2022-09-17.md",
+    "Excalidraw/Drawing 2022-09-17 21.20.57.excalidraw.md",
+    "Excalidraw/Drawing 2022-09-17 21.44.25.excalidraw.md",
+    "Files/ReluActivation 2022-09-17 22.11.52.excalidraw.md",
+    "Zettlekasten/ReluActivation.md",
+    "Zettlekasten/ActivationFunctions.md",
+    "Zettlekasten/zettlekastenCard.md",
+    "Zettlekasten/Zettlekasten.md",
+    "Zettlekasten/WhatToIgnore-USE.md",
+    "Zettlekasten/VisioSpacialSketchPad.md"
+  ]
+}
