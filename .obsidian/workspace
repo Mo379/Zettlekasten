@@ -4,11 +4,119 @@
     "type": "split",
     "children": [
       {
-        "id": "ed5ad500e613cb69",
+        "id": "e183c9bafb27eb9b",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
+        }
+      },
+      {
+        "id": "2a384bb6e17d239d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettlekasten/MultLayerPreceptron.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "16cef4f771a41046",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettlekasten/ReluActivation.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "f84febe11c767cfa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettlekasten/Muzero.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "e2705fc29a87e0db",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettlekasten/Muzero.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "32a0f0693ad69c64",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettlekasten/StandardDerivative.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "3695e80b5bebb512",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettlekasten/PartialDerivatives.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "92eebf4eac59620f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettlekasten/BackPropagation.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "7e351e027b42500a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettlekasten/Optimisers.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "57789cb04248ca38",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettlekasten/MachineLearning.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#idea",
+                "query": "tag:#math",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,6 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettlekasten/MultLayerPreceptron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +198,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": true,
+                "file": "Zettlekasten/MultLayerPreceptron.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -101,7 +211,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -110,28 +220,30 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Zettlekasten/MultLayerPreceptron.md"
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "ed5ad500e613cb69",
+  "active": "2a384bb6e17d239d",
   "lastOpenFiles": [
-    "Zettlekasten/2022-09-17.md",
-    "Excalidraw/Drawing 2022-09-17 21.20.57.excalidraw.md",
-    "Excalidraw/Drawing 2022-09-17 21.44.25.excalidraw.md",
-    "Files/ReluActivation 2022-09-17 22.11.52.excalidraw.md",
-    "Zettlekasten/ReluActivation.md",
-    "Zettlekasten/ActivationFunctions.md",
-    "Zettlekasten/zettlekastenCard.md",
-    "Zettlekasten/Zettlekasten.md",
     "Zettlekasten/WhatToIgnore-USE.md",
-    "Zettlekasten/VisioSpacialSketchPad.md"
+    "Zettlekasten/MultLayerPreceptron.md",
+    "Zettlekasten/BackPropagation.md",
+    "Zettlekasten/TheChainRule.md",
+    "Zettlekasten/PartialDerivatives.md",
+    "Zettlekasten/StandardDerivative.md",
+    "Zettlekasten/AdmonitionTypes.md",
+    "Files/PartialDerivatives 2022-09-18 08.41.53.excalidraw.md",
+    "Files/StandardDerivative 2022-09-18 08.32.16.excalidraw.md",
+    "Zettlekasten/ReluActivation.md"
   ]
 }
