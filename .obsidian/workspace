@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlekasten/MultLayerPreceptron.md",
+                "file": "Zettlekasten/PartialDerivatives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlekasten/MultLayerPreceptron.md",
+                "file": "Zettlekasten/PartialDerivatives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlekasten/MultLayerPreceptron.md"
+                "file": "Zettlekasten/PartialDerivatives.md"
               }
             }
           }
@@ -233,10 +233,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2a384bb6e17d239d",
+  "active": "3695e80b5bebb512",
   "lastOpenFiles": [
-    "Zettlekasten/WhatToIgnore-USE.md",
     "Zettlekasten/MultLayerPreceptron.md",
+    "Zettlekasten/WhatToIgnore-USE.md",
     "Zettlekasten/BackPropagation.md",
     "Zettlekasten/TheChainRule.md",
     "Zettlekasten/PartialDerivatives.md",
