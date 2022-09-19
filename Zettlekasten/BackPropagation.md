@@ -8,7 +8,9 @@ Backpropagation is the method by which [[MachineLearning]] algorithms learn to c
 
 This process relies on [[Optimisers]], which are methods that calculate the best possible gradients.
 
+```ad-note
+![[BackPropagation 2022-09-18 13.42.57.excalidraw]]
 
-
-
+Following this, we calculate each of the partial derivatives present within the chain rule to obtain the loss gradient of the loss funciton wrt any parameter.
+```
 # References

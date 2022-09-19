@@ -1,7 +1,7 @@
 #### Meta information
 22-09-18, 00:24
 Status: #idea
-Tags: [[BackPropagation]] [[StandardDerivative]] [[PartialDerivatives]]
+Tags: [[BackPropagation]] [[StandardDerivative]] [[PartialDerivatives]] [[GradientDecent]]
 
 
 

@@ -8,7 +8,7 @@ Tags: [[BackPropagation]] [[GradientDecent]]
 
 
 # Optimisers
-Optimisers are methods that utilise
+Optimisers are methods that utilised the calculated gradients to update the weights optimally, to produce the desired output; better network parameters.
 
 
 

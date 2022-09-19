@@ -11,6 +11,10 @@ Tags: [[MachineLearning]]
 
 Jax is a machine learning framework that focuses on simplicity, it does this by allowing you to use an API identical to numpy. Futhermore, after allowing this, the key feature is being able to run that code on a gpu, traditional numpy does not allow this.
 
+```ad-important
+In addition, jax makes use of [[JIT]] and [[grad]] functions, which allow it to speed up operations and automatically calculate gradients.
+```
+
 
 
 
@@ -18,3 +22,4 @@ Jax is a machine learning framework that focuses on simplicity, it does this by 
 
 
 # References
+[[@Bradbury2018]]

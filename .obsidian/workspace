@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e183c9bafb27eb9b",
+        "id": "048846e47c5c6128",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -12,108 +12,132 @@
         }
       },
       {
-        "id": "2a384bb6e17d239d",
+        "id": "434cf19ad56cb555",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettlekasten/MultLayerPreceptron.md",
+            "file": "Zettlekasten/JaxNN.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "16cef4f771a41046",
+        "id": "8a74d991a0055e08",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettlekasten/ReluActivation.md",
+            "file": "Zettlekasten/JaxGrad.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "f84febe11c767cfa",
+        "id": "8b139b3ed4b861ae",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettlekasten/Muzero.md",
+            "file": "Zettlekasten/JaxVmap.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "e2705fc29a87e0db",
+        "id": "9cfaad07060cd841",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettlekasten/Muzero.md",
+            "file": "Zettlekasten/JaxPmap.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "32a0f0693ad69c64",
+        "id": "295e09dee2de17e8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettlekasten/StandardDerivative.md",
+            "file": "Zettlekasten/JaxNN.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "3695e80b5bebb512",
+        "id": "9dd8838068f0c0a7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettlekasten/PartialDerivatives.md",
+            "file": "Zettlekasten/JNP.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "92eebf4eac59620f",
+        "id": "e7ab2801ffe16ff8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettlekasten/BackPropagation.md",
+            "file": "Zettlekasten/JIT.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "7e351e027b42500a",
+        "id": "d61aca73efaf788b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettlekasten/Optimisers.md",
+            "file": "Zettlekasten/PRNGkey.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "57789cb04248ca38",
+        "id": "367831d0bc0c4a66",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettlekasten/MachineLearning.md",
+            "file": "Zettlekasten/TreeMap.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "9c71dd0f45893ad8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettlekasten/KeySplit.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "44d0db004225e7cf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettlekasten/TypeHints.md",
             "mode": "source",
             "source": false
           }
@@ -181,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlekasten/PartialDerivatives.md",
+                "file": "Zettlekasten/JaxPmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlekasten/PartialDerivatives.md",
+                "file": "Zettlekasten/JaxPmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -221,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlekasten/PartialDerivatives.md"
+                "file": "Zettlekasten/JaxPmap.md"
               }
             }
           }
@@ -233,17 +257,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3695e80b5bebb512",
+  "active": "9cfaad07060cd841",
   "lastOpenFiles": [
-    "Zettlekasten/MultLayerPreceptron.md",
-    "Zettlekasten/WhatToIgnore-USE.md",
-    "Zettlekasten/BackPropagation.md",
-    "Zettlekasten/TheChainRule.md",
-    "Zettlekasten/PartialDerivatives.md",
-    "Zettlekasten/StandardDerivative.md",
-    "Zettlekasten/AdmonitionTypes.md",
-    "Files/PartialDerivatives 2022-09-18 08.41.53.excalidraw.md",
-    "Files/StandardDerivative 2022-09-18 08.32.16.excalidraw.md",
-    "Zettlekasten/ReluActivation.md"
+    "Zettlekasten/JaxVmap.md",
+    "Zettlekasten/JaxGrad.md",
+    "Zettlekasten/KeySplit.md",
+    "Zettlekasten/TypeHints.md",
+    "Zettlekasten/JNP.md",
+    "Zettlekasten/JaxNN.md",
+    "Zettlekasten/TreeMap.md",
+    "Zettlekasten/Jax.md",
+    "Zettlekasten/JIT.md",
+    "Zettlekasten/PRNGkey.md"
   ]
 }
