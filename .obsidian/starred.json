@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Jax",
+      "path": "Zettlekasten/Jax.md"
+    },
+    {
+      "type": "file",
+      "title": "MachineLearning",
+      "path": "Zettlekasten/MachineLearning.md"
+    }
+  ]
+}
