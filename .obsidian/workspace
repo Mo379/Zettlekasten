@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "8490df82ba3df561",
+        "id": "38ce2c685218d7d1",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -12,324 +12,36 @@
         }
       },
       {
-        "id": "434cf19ad56cb555",
+        "id": "19cd785ab664a510",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettlekasten/JaxNN.md",
+            "file": "Zettlekasten/parallisation.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "8a74d991a0055e08",
+        "id": "ac280a290ede56a5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettlekasten/JaxGrad.md",
+            "file": "Zettlekasten/MultiDeviceParallisation.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "8b139b3ed4b861ae",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten/JaxVmap.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "9cfaad07060cd841",
+        "id": "2dc754b0a904e471",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Zettlekasten/JaxPmap.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "295e09dee2de17e8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten/JaxNN.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "9dd8838068f0c0a7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten/JNP.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "e7ab2801ffe16ff8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten/JIT.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "d61aca73efaf788b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten/PRNGkey.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "367831d0bc0c4a66",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten/TreeMap.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "e0403c319dcbdc32",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten/KeySplit.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "9c71dd0f45893ad8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten/Zettlekasten.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "0fb5c633a3522c12",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten/FirstPrinciplesThinking.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "44d0db004225e7cf",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten/StrategicThinking.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "a6cf4edd8ce64b3e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten/StrategyVsTactic.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "b82195d1d5d124ed",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten/TheFourQuestionsOfStrategy.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "e7c56291d43c293a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten/CorrectOrchistration.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "2d054005eba87e65",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten/ShortTermThinker.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "c3e5828a7a84fdb3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten/LongTermThinker.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "bcb210b32e73ae20",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten/RevolutionaryThinker.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "7fc867221c5339b7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten/MidTermThinker.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "3f43313a9769b8a7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten/Anticipation.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "667a94de0739ecb0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten/NonEmotionalCriticalThinking.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "dc1f33473b103001",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten/InterpretMotive.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "c7af7f8fc983eca4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten/MakingGutDecisions.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "b290b183f2dfb749",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten/PartyAlignment.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "75bb346276eb1803",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten/LearnForCriticalThinking.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "1de323f4afb60c62",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten/TheTwoTypesOfStrategist.md",
             "mode": "source",
             "source": false
           }
@@ -360,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#math",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -377,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -397,14 +110,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlekasten/NonEmotionalCriticalThinking.md",
+                "file": "Zettlekasten/MultiDeviceParallisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -414,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlekasten/NonEmotionalCriticalThinking.md",
+                "file": "Zettlekasten/MultiDeviceParallisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -427,7 +140,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -437,29 +150,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlekasten/NonEmotionalCriticalThinking.md"
+                "file": "Zettlekasten/MultiDeviceParallisation.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "667a94de0739ecb0",
+  "active": "ac280a290ede56a5",
   "lastOpenFiles": [
-    "Zettlekasten/TheTwoTypesOfStrategist.md",
-    "Zettlekasten/Anticipation.md",
-    "Zettlekasten/ShortTermThinker.md",
-    "Zettlekasten/CorrectOrchistration.md",
-    "Zettlekasten/TheFourQuestionsOfStrategy.md",
-    "Zettlekasten/FirstPrinciplesThinking.md",
-    "Zettlekasten/Zettlekasten.md",
-    "Zettlekasten/KeySplit.md",
-    "Zettlekasten/TreeMap.md",
-    "Zettlekasten/StrategicThinking.md"
+    "Zettlekasten/JaxDevices.md",
+    "Zettlekasten/MultiDeviceParallisation.md",
+    "Zettlekasten/JaxPmap.md",
+    "Zettlekasten/parallisation.md",
+    "Zettlekasten/JaxOptimisation.md",
+    "Zettlekasten/TheCentralMoment.md",
+    "Zettlekasten/TheFallingFactorial.md",
+    "Zettlekasten/TheFactorialMoment.md",
+    "Zettlekasten/StandardDeviation.md",
+    "Zettlekasten/DistributionSpread.md"
   ]
 }

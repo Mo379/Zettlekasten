@@ -1,7 +1,7 @@
 #### Meta information
 22-09-18, 21:16
 Status: #idea
-Tags: [[jax]]
+Tags: [[Jax]]
 
 
 

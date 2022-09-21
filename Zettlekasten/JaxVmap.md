@@ -14,8 +14,8 @@ import jax.numpy as jnp
 # foo deals with a single input
 def foo(x: int): -> int
 	return x**2 + 2
-	
-vfoo = jax.vmap(foo)(jnp.ndarray)
+# parallise the first input and show it to me in the first output	
+vfoo = jax.vmap(foo, 0, 0)(jnp.ndarray)
 ''' vectorised foo
 vectorises foo
 Args:

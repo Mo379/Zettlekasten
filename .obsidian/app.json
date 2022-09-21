@@ -3,5 +3,6 @@
   "newFileFolderPath": "Zettlekasten",
   "attachmentFolderPath": "Files",
   "vimMode": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "fileSortOrder": "byModifiedTime"
 }
