@@ -21,7 +21,7 @@ $$
 $$
 ```
 
-
+see [[PropertiesOfVariance]]
 
 
 

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "38ce2c685218d7d1",
+        "id": "6ddafbb407cbce7f",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -12,36 +12,144 @@
         }
       },
       {
-        "id": "19cd785ab664a510",
+        "id": "646d7697396e062b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettlekasten/parallisation.md",
+            "file": "Zettlekasten/HowToImplementPapers.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "ac280a290ede56a5",
+        "id": "935706c643fa7b9c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettlekasten/MultiDeviceParallisation.md",
+            "file": "Zettlekasten/Abstract.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "2dc754b0a904e471",
+        "id": "2b3b9bac481284a7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettlekasten/JaxPmap.md",
+            "file": "Zettlekasten/Introduction.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "166ae30fbf01f08a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettlekasten/Method.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "8e0bc25ac0e7eb59",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettlekasten/RelatedWork.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "dffe8bb50530409f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettlekasten/Algorithm.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "02dae47ead10d478",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettlekasten/ResultsAndExperimentDetails.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "77f2ce10dcae7699",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettlekasten/Implementation.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "1661a3d31ea15423",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettlekasten/NuggetExtraction.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "f7e43a581ba7e6c6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettlekasten/KnowldgeGaps.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "8829c150dcc255f7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettlekasten/LevelsOfExpertise.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "baeedc919941a959",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettlekasten/HowToAskBetterQuestions.md",
             "mode": "source",
             "source": false
           }
@@ -89,8 +197,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlekasten/MultiDeviceParallisation.md",
+                "file": "Zettlekasten/LevelsOfExpertise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlekasten/MultiDeviceParallisation.md",
+                "file": "Zettlekasten/LevelsOfExpertise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlekasten/MultiDeviceParallisation.md"
+                "file": "Zettlekasten/LevelsOfExpertise.md"
               }
             }
           }
@@ -161,17 +268,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ac280a290ede56a5",
+  "active": "8829c150dcc255f7",
   "lastOpenFiles": [
-    "Zettlekasten/JaxDevices.md",
-    "Zettlekasten/MultiDeviceParallisation.md",
-    "Zettlekasten/JaxPmap.md",
-    "Zettlekasten/parallisation.md",
-    "Zettlekasten/JaxOptimisation.md",
-    "Zettlekasten/TheCentralMoment.md",
-    "Zettlekasten/TheFallingFactorial.md",
-    "Zettlekasten/TheFactorialMoment.md",
-    "Zettlekasten/StandardDeviation.md",
-    "Zettlekasten/DistributionSpread.md"
+    "Zettlekasten/NuggetExtraction.md",
+    "Zettlekasten/Abstract.md",
+    "Zettlekasten/Introduction.md",
+    "Zettlekasten/Method.md",
+    "Zettlekasten/RelatedWork.md",
+    "Zettlekasten/Algorithm.md",
+    "Zettlekasten/ResultsAndExperimentDetails.md",
+    "Zettlekasten/Implementation.md",
+    "Zettlekasten/HowToImplementPapers.md",
+    "Zettlekasten/KnowldgeGaps.md"
   ]
 }

@@ -41,18 +41,25 @@
         "a": 1,
         "rgb": 16777215
       }
+    },
+    {
+      "query": "WritingGuide",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.76379383185467,
+  "nodeSizeMultiplier": 1.79068306552933,
   "lineSizeMultiplier": 5,
-  "collapse-forces": false,
-  "centerStrength": 0.679977898332329,
-  "repelStrength": 20,
+  "collapse-forces": true,
+  "centerStrength": 0.580572637704159,
+  "repelStrength": 16.7956093367718,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.46924273046323345,
-  "close": false
+  "scale": 0.5019727098083838,
+  "close": true
 }
