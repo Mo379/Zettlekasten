@@ -9,7 +9,7 @@ Tags: [[WritigngGuide]]
 
 # WritingGuide_8
 
-![](http://127.0.0.1:51854/tmpuu1otbrd.png)
+![[GuideNewOutline.pdf]]
 
 
 

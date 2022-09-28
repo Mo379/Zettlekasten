@@ -9,7 +9,9 @@ Tags: [[WritigngGuide]]
 
 # WritingGuide_9
 
-![](http://127.0.0.1:51854/tmp_fnxvtjc.png)
+
+
+![[Guide_repeat.pdf]]
 
 
 

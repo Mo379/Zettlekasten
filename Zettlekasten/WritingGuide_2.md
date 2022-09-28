@@ -10,7 +10,7 @@ Tags: [[WritigngGuide]]
 # WritingGuide_2
 
 
-![](http://127.0.0.1:51854/tmpxe6dvbst.png)
+![[GuideResolution.pdf]]
 
 
 

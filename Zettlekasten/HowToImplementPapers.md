@@ -1,7 +1,7 @@
 #### Meta information
 22-09-22, 10:37
 Status: #idea
-Tags: [[StrategicThinking]]
+Tags: [[StrategicThinking]] [[Zettlekasten]] [[FirstPrinciplesThinking]]
 
 
 

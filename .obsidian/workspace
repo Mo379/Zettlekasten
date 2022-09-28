@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "6ddafbb407cbce7f",
+        "id": "3bf706b8bcbef189",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -12,144 +12,120 @@
         }
       },
       {
-        "id": "646d7697396e062b",
+        "id": "4bb9a8f7e291ac8f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettlekasten/HowToImplementPapers.md",
+            "file": "Zettlekasten/LanguageTransferFrench.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "935706c643fa7b9c",
+        "id": "73438faf2d3d4d6b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettlekasten/Abstract.md",
+            "file": "Zettlekasten/LanguageTransfer_1.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "2b3b9bac481284a7",
+        "id": "775f64769f6a747f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettlekasten/Introduction.md",
+            "file": "Zettlekasten/LanguageTransfer_2.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "166ae30fbf01f08a",
+        "id": "455894fb1098ba86",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettlekasten/Method.md",
+            "file": "Zettlekasten/LanguageTransfer_3.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "8e0bc25ac0e7eb59",
+        "id": "f5be83b61c51f521",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettlekasten/RelatedWork.md",
+            "file": "Zettlekasten/LanguageTransfer_4.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "dffe8bb50530409f",
+        "id": "50273a5352bafc9a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettlekasten/Algorithm.md",
+            "file": "Zettlekasten/LanguageTransfer_5.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "02dae47ead10d478",
+        "id": "947c3c3d1f3bbd47",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettlekasten/ResultsAndExperimentDetails.md",
+            "file": "Zettlekasten/FrenchAccents.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "77f2ce10dcae7699",
+        "id": "714d2ff9279fa526",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettlekasten/Implementation.md",
+            "file": "Zettlekasten/FrenchVocabulary.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "1661a3d31ea15423",
+        "id": "7b975159362578ba",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettlekasten/NuggetExtraction.md",
+            "file": "Zettlekasten/Stories.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "f7e43a581ba7e6c6",
+        "id": "3a7a2486704b7d92",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettlekasten/KnowldgeGaps.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "8829c150dcc255f7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten/LevelsOfExpertise.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "baeedc919941a959",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten/HowToAskBetterQuestions.md",
+            "file": "Zettlekasten/PillarsOfStoryTelling.md",
             "mode": "source",
             "source": false
           }
@@ -217,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlekasten/LevelsOfExpertise.md",
+                "file": "Zettlekasten/LanguageTransfer_5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlekasten/LevelsOfExpertise.md",
+                "file": "Zettlekasten/LanguageTransfer_5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -257,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlekasten/LevelsOfExpertise.md"
+                "file": "Zettlekasten/LanguageTransfer_5.md"
               }
             }
           }
@@ -268,17 +244,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8829c150dcc255f7",
+  "active": "50273a5352bafc9a",
   "lastOpenFiles": [
-    "Zettlekasten/NuggetExtraction.md",
-    "Zettlekasten/Abstract.md",
-    "Zettlekasten/Introduction.md",
-    "Zettlekasten/Method.md",
-    "Zettlekasten/RelatedWork.md",
-    "Zettlekasten/Algorithm.md",
-    "Zettlekasten/ResultsAndExperimentDetails.md",
-    "Zettlekasten/Implementation.md",
-    "Zettlekasten/HowToImplementPapers.md",
-    "Zettlekasten/KnowldgeGaps.md"
+    "Zettlekasten/LanguageTransfer_1.md",
+    "Zettlekasten/LanguageTransfer_5.md",
+    "Zettlekasten/LanguageTransfer_4.md",
+    "Zettlekasten/FrenchAccents.md",
+    "Zettlekasten/FrenchVocabulary.md",
+    "Zettlekasten/LanguageTransfer_2.md",
+    "Zettlekasten/LanguageTransfer_3.md",
+    "Zettlekasten/LanguageTransferFrench.md",
+    "Zettlekasten/Stories.md",
+    "Zettlekasten/PillarsOfStoryTelling.md"
   ]
 }

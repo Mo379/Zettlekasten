@@ -1,7 +1,7 @@
 #### Meta information
 22-09-20, 17:03
 Status: #idea
-Tags: [[PPOAlgorithm]] [[SummaryStatistics]] [[RunningEstimate]] [[ExponentialMovingAverage]] [[MovingAverage]]
+Tags: [[PPOAlgorithm]] [[RunningEstimate]] [[ExponentialMovingAverage]] [[MovingAverage]]
 
 
 

@@ -9,8 +9,7 @@ Tags: [[WritigngGuide]]
 
 # WritingGuide_4
 
-![](http://127.0.0.1:51854/tmp_zi88_rk.png)
-
+![[GuideOutline.pdf]]
 
 
 

@@ -9,7 +9,7 @@ Tags: [[LifeMap]]
 
 # ProfessionalLife
 ![](http://127.0.0.1:51854/tmp9dg_5es8.png)
-
+![[ProfessionalLife.pdf]]
 
 
 

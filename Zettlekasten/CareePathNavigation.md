@@ -9,10 +9,13 @@ Tags: [[FirstPrinciplesThinking]]
 
 # CareePathNavigation
 
-![](http://127.0.0.1:51854/tmpr6ghstgx.png)
+
+![[CareerStrategy-1.png]]
+
 
 
 
 
 
 # References
+Waitbutwhy.com

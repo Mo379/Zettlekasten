@@ -1,7 +1,7 @@
 #### Meta information
 22-09-17, 22:02
 Status: #idea
-Tags: [[ZettlekastenUnderstandThenWrite]] [[NeuroScience]]
+Tags: [[ZettlekastenUnderstandThenWrite]] [[NeuroScience]] [[Zettlekasten]]
 
 
 

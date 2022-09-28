@@ -8,7 +8,7 @@ Tags: [[LifeMap]]
 
 
 # HobbiesAndInterests
-![](http://127.0.0.1:51854/tmpphoxa8ps.png)
+![[HobbiesAndInterests.pdf]]
 
 
 

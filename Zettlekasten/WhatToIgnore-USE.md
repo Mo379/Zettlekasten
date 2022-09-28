@@ -1,7 +1,7 @@
 #### Meta information
 22-09-17, 22:00
 Status: #idea
-Tags: [[ZettlekastenUnderstandThenWrite]]
+Tags: [[ZettlekastenUnderstandThenWrite]] [[Zettlekasten]]
 
 
 

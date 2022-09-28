@@ -8,7 +8,7 @@ Tags: [[WritigngGuide]]
 
 
 # WritingGuide_3
-
+![[GuideTopicAndReading.pdf]]
 ![](http://127.0.0.1:51854/tmplronl1to.png)
 
 

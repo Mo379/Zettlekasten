@@ -1,8 +1,7 @@
 #### Meta information
 22-09-17, 23:13
 Status: #idea
-Tags: [[zettlekastenCard]] 
-
+Tags: [[zettlekastenCard]]  [[Zettlekasten]]
 
 
 
