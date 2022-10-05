@@ -9,10 +9,10 @@ Tags: [[LanguageTransferFrench]]
 
 # LanguageTransfer_1
 
-1) In english we already use a lot of french
-formal is latin, casual is germanic e.g to ask, to enquire.
+1) In english we already use a lot of french, where
+formal sounding words are latin, and casual sounding words are germanic e.g to ask and to enquire.
 - to ask is germanic
-- to enquire is latin and thus french like
+- to enquire is latin and so it's like french 
 
 
 gâteau -> cake
@@ -45,7 +45,7 @@ Collection -> Collection -> collec-sion
 Organisation -> Orginisation ->
 etc...
 
-The words or nouns in french have a feminie or masculine meaning, this changes which leading refferal word we use either (le -> feminie),  or(la -> masculine).
+The words or nouns in french have a feminie or masculine meaning, this changes which leading refferal word we use either (le -> feminie),  or (la -> masculine).
 le gâteau -> the cake -> feminine
 le caffee -> the coffe -> feminine
 la collection -> the collection -> masculine
@@ -54,6 +54,8 @@ la confirmaiton -> the confirmation -> masculine
 The word for (it) is the same as the word for (the), la and le for masculine and feminine.
 je veux la confirmation -> i want the confirmation
 tu veux la collection -> you want the collection
+je voux le caffee ->
+tu voux le gateau -> 
 tu la veux -> you want it
 tu la veux ? -> do you want it ? 
 

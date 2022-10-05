@@ -1,15 +1,13 @@
 #### Meta information
-22-09-21, 20:34
+22-10-02, 19:55
 Status: #idea
-Tags: [[LifeMap]]
+Tags: [[PersonalRelationships]]
 
 
 
 
 
-# PersonalRelationships
-
-
+# Marriage
 
 
 

@@ -1,13 +1,16 @@
 #### Meta information
-22-09-21, 20:35
+22-10-02, 19:32
 Status: #idea
-Tags: [[LifeMap]]
+Tags: [[ProfessionalLife]]
 
 
 
 
 
-# HobbiesAndInterests
+# academic
+
+
+
 
 
 

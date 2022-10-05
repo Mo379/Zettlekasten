@@ -1,13 +1,14 @@
 #### Meta information
-22-09-21, 20:35
+22-10-02, 19:34
 Status: #idea
-Tags: [[LifeMap]]
+Tags: [[academic]]
 
 
 
 
 
-# HobbiesAndInterests
+# RootOfPhysics
+
 
 
 

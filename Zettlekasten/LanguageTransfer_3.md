@@ -21,7 +21,7 @@ tu veux recommander quelque chose ->
 je veux commander quelque chose -> i want to order something
 tu veux commander quelque chose -> 
 
-The pronounciation of (peu) and (peux) are the same, however the 
+The pronounciation of (peu) and (peux) are the same, however their meaning is different
 un peu, je peux -> a little, i can
 
 The word peux in (i can) is related to (power) and possibility. (what you can do is, your possibility and power)

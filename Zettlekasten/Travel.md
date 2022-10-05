@@ -1,13 +1,15 @@
 #### Meta information
-22-09-21, 20:35
+22-10-02, 19:27
 Status: #idea
-Tags: [[LifeMap]]
+Tags: [[HobbiesAndInterests]]
 
 
 
 
 
-# HobbiesAndInterests
+# Travel
+
+
 
 
 

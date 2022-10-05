@@ -1,13 +1,15 @@
 #### Meta information
-22-09-21, 20:35
+22-10-02, 19:54
 Status: #idea
-Tags: [[LifeMap]]
+Tags: [[Friends]]
 
 
 
 
 
-# HobbiesAndInterests
+# PleasureAndBusiness
+
+
 
 
 

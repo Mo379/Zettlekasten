@@ -4,7 +4,7 @@
 #### Meta information
 22-09-17, 21:52
 Status: #idea
-Tags: [[Zettlekasten]] [[StrategicThinking]]
+Tags: [[Zettlekasten]] [[StrategicThinking]] [[CriticalThinking]]
 
 
 

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "3bf706b8bcbef189",
+        "id": "c1ffd7e080e154b6",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -12,91 +12,7 @@
         }
       },
       {
-        "id": "4bb9a8f7e291ac8f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten/LanguageTransferFrench.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "73438faf2d3d4d6b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten/LanguageTransfer_1.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "775f64769f6a747f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten/LanguageTransfer_2.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "455894fb1098ba86",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten/LanguageTransfer_3.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "f5be83b61c51f521",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten/LanguageTransfer_4.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "50273a5352bafc9a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten/LanguageTransfer_5.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "947c3c3d1f3bbd47",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten/FrenchAccents.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "714d2ff9279fa526",
+        "id": "8b679d78e8f0f507",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -108,24 +24,120 @@
         }
       },
       {
-        "id": "7b975159362578ba",
+        "id": "ef24de72884381d0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettlekasten/Stories.md",
+            "file": "Zettlekasten/LanguageTransfer_6.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "3a7a2486704b7d92",
+        "id": "ec5a40ba3defae50",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettlekasten/PillarsOfStoryTelling.md",
+            "file": "Zettlekasten/LanguageTransfer_7.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "0b9f2545842a461f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettlekasten/LanguageTransfer_8.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "f8df1dd7fd2cea14",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettlekasten/FrenchAccents.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "5bcd689ddd35b3a4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettlekasten/LanguageTransfer_5.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "488cd342eb091989",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettlekasten/LanguageTransfer_4.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "77b7835b4c68f3e4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettlekasten/LanguageTransfer_3.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "9ca756d8c8812c17",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettlekasten/LanguageTransfer_2.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "868cf7fbd5db5b05",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettlekasten/LanguageTransfer_1.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "6eac2236020d405a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettlekasten/LanguageTransferFrench.md",
             "mode": "source",
             "source": false
           }
@@ -157,7 +169,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -193,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlekasten/LanguageTransfer_5.md",
+                "file": "Zettlekasten/LanguageTransfer_8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlekasten/LanguageTransfer_5.md",
+                "file": "Zettlekasten/LanguageTransfer_8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -233,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlekasten/LanguageTransfer_5.md"
+                "file": "Zettlekasten/LanguageTransfer_8.md"
               }
             }
           }
@@ -244,17 +256,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "50273a5352bafc9a",
+  "active": "0b9f2545842a461f",
   "lastOpenFiles": [
-    "Zettlekasten/LanguageTransfer_1.md",
+    "Zettlekasten/LanguageTransfer_7.md",
+    "Zettlekasten/LanguageTransfer_8.md",
     "Zettlekasten/LanguageTransfer_5.md",
-    "Zettlekasten/LanguageTransfer_4.md",
+    "Zettlekasten/LanguageTransfer_6.md",
     "Zettlekasten/FrenchAccents.md",
     "Zettlekasten/FrenchVocabulary.md",
-    "Zettlekasten/LanguageTransfer_2.md",
+    "Zettlekasten/LanguageTransfer_4.md",
     "Zettlekasten/LanguageTransfer_3.md",
-    "Zettlekasten/LanguageTransferFrench.md",
-    "Zettlekasten/Stories.md",
-    "Zettlekasten/PillarsOfStoryTelling.md"
+    "Zettlekasten/LanguageTransfer_2.md",
+    "Zettlekasten/LanguageTransfer_1.md"
   ]
 }

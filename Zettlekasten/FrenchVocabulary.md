@@ -67,31 +67,31 @@ Tags: [[Languages]]
 - [x] ils – they
 - [x] as – ace
 - [x] être – be
+
+- [x] faire – make
+- [x] se – himself
+- [x] comme – as
+- [x] était – was
+- [x] sur – sure
+
+- [x] quoi – what
+- [x] ici – right here
+- [x] sais – know
+- [x] lui – him
+- [x] veux – want
+
+- [x] ma – my
+- [x] là – the
+- [x] rien – nothing
+- [x] dit – said/say
+- [x] es – are
+
+- [x] où – where
+- [x] votre – your
+- [x] pourquoi – Why
+- [x] sont – are
+- [x] cette – this
 anchor
-- [ ] faire – make
-- [ ] se – himself
-- [ ] comme – as
-- [ ] était – was
-- [ ] sur – sure
-
-- [ ] quoi – what
-- [ ] ici – right here
-- [ ] sais – know
-- [ ] lui – him
-- [ ] veux – want
-
-- [ ] ma – my
-- [ ] là – the
-- [ ] rien – nothing
-- [ ] dit – said/say
-- [ ] es – are
-
-- [ ] où – where
-- [ ] votre – your
-- [ ] pourquoi – Why
-- [ ] sont – are
-- [ ] cette – this
-
 - [ ] quand – when
 - [ ] par – by
 - [ ] son – his

@@ -48,6 +48,27 @@
         "a": 1,
         "rgb": 5419488
       }
+    },
+    {
+      "query": "Life",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "Focus",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "French",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
     }
   ],
   "collapse-display": false,
@@ -60,6 +81,6 @@
   "repelStrength": 11.823050981948,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.6146907981563012,
-  "close": true
+  "scale": 0.7555077506446273,
+  "close": false
 }

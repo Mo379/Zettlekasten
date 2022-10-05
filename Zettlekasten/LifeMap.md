@@ -8,7 +8,7 @@ Tags: [[StrategicThinking]]
 
 
 # LifeMap
-![[LifeMap-1.png]]
+![[LifeMap.pdf]]
 ![](http://127.0.0.1:51854/tmp68udw7gg.png)
 
 
