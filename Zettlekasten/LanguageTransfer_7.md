@@ -9,19 +9,19 @@ Tags: [[LanguageTransferFrench]]
 
 # LanguageTransfer_7
 
-The accent on letters can be determined from the sound of the work
+The accent on letters can be determined from the sound of the word.
 recommander ->
 rèservèr -> 
 rèpare -> 
 Je peux recommander la voiture ->
 le Train -> 
-Je doe recommaner le train ->
+Je dos recommaner le train ->
 le Bus -> 
 Je veoux recommander le Bus -> 
 
 recommander, rèparèr, rèservèr, have two different sounding (e)s, notice that sometimes the difference between two words is the accent, de, dè (of, dice).
 Tu voux un peu de gâteau ->
-Pu tu visiter plustard ->
+Puex tu visiter plustard ->
 la visite -> the visit
 tu dos confirmer la visite plustard -> 
 trente -> 

@@ -24,8 +24,8 @@ le caffe -> the coffe
 je veux -> I want
 veux is connected to volenteer, a volenteer is one who wants to do, theyre doing something just out of want (want= veux)
 
-je vous le gâteau -> i want the cake
-je vous le caffe -> i want the coffe
+je veux le gâteau -> i want the cake
+je veux le caffe -> i want the coffe
 
 The word for (it) is the same as the word for (the).
 I want it -> je la veux -literal> i it want

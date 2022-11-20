@@ -91,43 +91,43 @@ Tags: [[Languages]]
 - [x] pourquoi – Why
 - [x] sont – are
 - [x] cette – this
+
+- [x] quand – when
+- [x] par – by
+- [x] son – his
+- [x] ton – your
+- [x] peux – can
+
+- [x] alors – so
+- [x] dire – say
+- [x] vais – am going to
+- [x] comment – how
+- [x] avez – have
+
+- [x] bon – good
+- [x] ou – or
+- [x] très – very
+- [x] même – even
+- [x] merci – thank you
+
+- [x] ont – have
+- [x] jamais – never
+- [x] aussi – also
+- [x] chose – thing
+- [x] voir – see
+
+- [x] allez – going
+- [x] tous – all
+- [x] ces – these
+- [x] deux – two
+- [x] sa – her
+
+- [x] faut – must
+- [x] été – summer
+- [x] êtes – are
+- [x] ta – your
+- [x] avoir – to have
 anchor
-- [ ] quand – when
-- [ ] par – by
-- [ ] son – his
-- [ ] ton – your
-- [ ] peux – can
-
-- [ ] alors – so
-- [ ] dire – say
-- [ ] vais – am going to
-- [ ] comment – how
-- [ ] avez – have
-
-- [ ] bon – good
-- [ ] ou – or
-- [ ] très – very
-- [ ] même – even
-- [ ] merci – thank you
-
-- [ ] ont – have
-- [ ] jamais – never
-- [ ] aussi – also
-- [ ] chose – thing
-- [ ] voir – see
-
-- [ ] allez – going
-- [ ] tous – all
-- [ ] ces – these
-- [ ] deux – two
-- [ ] sa – her
-
-- [ ] faut – must
-- [ ] été – summer
-- [ ] êtes – are
-- [ ] ta – your
-- [ ] avoir – to have
-
 - [ ] fais – do
 - [ ] peut – can
 - [ ] autre – other

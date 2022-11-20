@@ -9,7 +9,7 @@ Tags: [[LanguageTransferFrench]]
 
 # LanguageTransfer_5
 
-tu voux un peu de gâteau -> you wand a little bit of cake ? 
+tu voux un peu de gâteau -> you want a little bit of cake ? 
 voux tu un peu de gâteau -> 
 je voux commander le gàteau -> 
 je voux confirmer ->

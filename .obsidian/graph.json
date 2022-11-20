@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "french",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 14701233
       }
+    },
+    {
+      "query": "AI",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
     }
   ],
   "collapse-display": false,
@@ -77,10 +84,10 @@
   "nodeSizeMultiplier": 1.81465978972426,
   "lineSizeMultiplier": 2.0524829729551,
   "collapse-forces": false,
-  "centerStrength": 0.282086887522317,
-  "repelStrength": 11.823050981948,
+  "centerStrength": 0.264233287046221,
+  "repelStrength": 14.4706738081069,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.7555077506446273,
+  "scale": 1.3208179832194993,
   "close": false
 }
