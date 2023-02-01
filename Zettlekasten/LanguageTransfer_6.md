@@ -23,7 +23,7 @@ With words made of components such as (re-pare), if you learn to pay attention t
 Tu dos comparer ->
 la voiture ->
 Je dos réparé la voiture -> 
-peu tu  repare la voiture un peu plustard -> 
+peux tu  repare la voiture un peu plustard -> 
 Tu dos réserver la voiture ->
 la Machine -> the Machine
 Tu dos réserver la machine -> 

@@ -1,0 +1,323 @@
+{
+  "main": {
+    "id": "b77d089ffed5cb27",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf4b8f12c75c824f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea8bb9eefb044d52",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "66e1f3feb7bcf076",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/TheState.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13cf3da3ebfafaf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/TheActions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37eb0068475ada5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/TheRewards.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1977f28b1fcee1be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/TheReturn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "258a02a9243ca37e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/ConceptOfTimeInRL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68fb9c0d933a3efa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/MathmaticalFormalismOfRLBasics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ff1da140a665736",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/EpisodicProblems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "450f340d4ae28c44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/TheEpisode.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2f5294309ffaa36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/QuantatyDependenceInRL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "314640e096cba4d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/AbsoluteStatesAndStateRepresentations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "570a13aede3e61cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/EnvironmentDeterminism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b29612f714ad1a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/RelativeRewardPunishmentBalance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75065ebb16f5de4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "722485a4dd7f7904",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b2a438231f5d50b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "fa51a94172a56e0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce6ea04106717c4d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 212.49999809265137
+  },
+  "right": {
+    "id": "8c0ad7d765d1fb26",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebcdc813301f3970",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "582b731427b31aa6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2eabafb3ba308f9a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f04de291c9fa21e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "129bed431ff26309",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "e54ed9089e93ec0d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "14e182a8743c4ebd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dcb993067475a42",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ea8bb9eefb044d52",
+  "lastOpenFiles": [
+    "Zettlekasten/TheEnvironment.md",
+    "Zettlekasten/RelativeRewardPunishmentBalance.md",
+    "Zettlekasten/relative.md",
+    "Zettlekasten/Relative.md",
+    "Zettlekasten/ThePolicy.md",
+    "Zettlekasten/TheAgent.md",
+    "Zettlekasten/ConceptOfTimeInRL.md",
+    "Zettlekasten/QuantatyDependenceInRL.md",
+    "Zettlekasten/MathmaticalFormalismOfRLBasics.md",
+    "Zettlekasten/AbsoluteStatesAndStateRepresentations.md"
+  ]
+}

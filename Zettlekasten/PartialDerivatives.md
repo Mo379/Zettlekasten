@@ -1,7 +1,7 @@
 #### Meta information
 22-09-18, 00:25
 Status: #idea #math
-Tags: [[BackPropagation]] [[StandardDerivative]]
+Tags: [[BackPropagation]] [[StandardDerivative]] [[JaxGrad]]
 
 
 

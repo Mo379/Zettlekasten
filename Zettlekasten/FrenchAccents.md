@@ -31,7 +31,7 @@ Naïve -> Naive -pronounce> na-eve not nayve
 6) ç accent Cédille, from ka to sa
 ca, co, cu -> ka ko ku
 ça, ço, çu -> sa so su
-ça va -> okay -> sa-va
+ça va -> it's okay -> sa-va
 
 
 

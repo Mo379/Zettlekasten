@@ -9,8 +9,8 @@ Tags: [[LanguageTransferFrench]]
 
 # LanguageTransfer_5
 
-tu voux un peu de gâteau -> you want a little bit of cake ? 
-voux tu un peu de gâteau -> 
+tu voux un peu de gâteau -> you want a little bit of cake 
+voux tu un peu de gâteau -> you want a little bit of cake ?
 je voux commander le gàteau -> 
 je voux confirmer ->
 je peu fermer la porte -> 
@@ -34,9 +34,9 @@ peu tu commandaer quelque chose plutard ->
 je voux reserver quelque chose un peu plutard ->
 
 fermer a clè ->
-tu peu fermer a cle la port ->
-tu peu fermer la port a cle -> 
-tu peu fermer a cle la port plutard ->
+tu peux fermer a cle la port ->
+tu peux fermer la port a cle -> 
+tu peux fermer a cle la port plutard ->
 a plutard ->
 
 

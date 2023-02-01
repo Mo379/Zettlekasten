@@ -26,11 +26,11 @@ tu peu confirmer ->
 The word confirmer used to be conferme in old french, built on two parts con-ferme,  con/com is very common in french words. ferme means to close, related to firm in english meaning solid, you see the connection ?. The word for door is port.
 peu tu fermer la port ? ->
 tu peu fermer la port ? ->
+its a good habit to learn the bits that different words are built of,  commander -> com-mander, this gives you the verb mander -> summon. This gives you the base of different words, recommander -> recom-mander, meaning to re summon a thought as a suggestion, you can let your imagination make meaning here. this is how you can find new words demander, repremander.
+
 
 It's an active task to learn the gender of words, you can find this information next to the definition of the words in the dictionary, and this becomes memorised knowldge gained from experince. When asking natives dont ask for (how do you say door ?), instead ask for (THE door), like this you get the gender of the word.
 peu tu fermer la port un peu ?
-
-its a good habit to learn the bits that different words are built of,  commander -> com-mander, this gives you the verb mander -> summon. This gives you the base of different words, recommander -> recom-mander, meaning to re summon a thought as a suggestion, you can let your imagination make meaning here. this is how you can find new words demander, repremander.
 
 
 

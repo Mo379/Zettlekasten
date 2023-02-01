@@ -1,0 +1,6 @@
+{
+  "folder": "Day Planners",
+  "template": "Templates/CoreDaily",
+  "autorun": false,
+  "format": "DDMMYYYY"
+}

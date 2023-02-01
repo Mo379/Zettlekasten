@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "french",
+  "collapse-filter": true,
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -81,13 +81,13 @@
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.81465978972426,
-  "lineSizeMultiplier": 2.0524829729551,
+  "nodeSizeMultiplier": 1.43959932048503,
+  "lineSizeMultiplier": 1.90459844180189,
   "collapse-forces": false,
   "centerStrength": 0.264233287046221,
   "repelStrength": 14.4706738081069,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.3208179832194993,
-  "close": false
+  "scale": 0.7895620215156556,
+  "close": true
 }
