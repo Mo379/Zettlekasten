@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bf4b8f12c75c824f",
+        "id": "3057720f5595adc7",
         "type": "tabs",
         "children": [
           {
-            "id": "ea8bb9eefb044d52",
+            "id": "5152d4e2b11943ad",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,144 +16,252 @@
             }
           },
           {
-            "id": "66e1f3feb7bcf076",
+            "id": "5df64d6c9bb2c3f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/TheState.md",
+                "file": "Zettlekasten/MathematicalFormalismOfOptimalityInRL.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "13cf3da3ebfafaf8",
+            "id": "adc76d0778344454",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/TheActions.md",
+                "file": "Zettlekasten/MathematicalFormalismOfValueFunctioniteration.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "37eb0068475ada5c",
+            "id": "feb45772b01a725a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/TheRewards.md",
+                "file": "Zettlekasten/MathematicalFormalismOfPolicyIteration.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1977f28b1fcee1be",
+            "id": "d10889e2f584de59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/TheReturn.md",
+                "file": "Zettlekasten/AlgorithmOfPolicyOptimisation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "258a02a9243ca37e",
+            "id": "5870726ddb8687b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/ConceptOfTimeInRL.md",
+                "file": "Zettlekasten/TheNotionOfGreedyPolicies.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "68fb9c0d933a3efa",
+            "id": "6183dfd822013805",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/MathmaticalFormalismOfRLBasics.md",
+                "file": "Zettlekasten/InLineValueEstimationUpdates.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1ff1da140a665736",
+            "id": "01dd5af910a357ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/EpisodicProblems.md",
+                "file": "Zettlekasten/AStateValueUpdateSweep.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "450f340d4ae28c44",
+            "id": "4ac36cdcca5f8de2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/TheEpisode.md",
+                "file": "Zettlekasten/TheStateRelevanceProblem.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e2f5294309ffaa36",
+            "id": "48b7c8985ed891d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/QuantatyDependenceInRL.md",
+                "file": "Zettlekasten/LearningValueThroughExperince.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "314640e096cba4d8",
+            "id": "ddd85254cd96db26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/AbsoluteStatesAndStateRepresentations.md",
+                "file": "Zettlekasten/MathematicalFormalismOfLearningThroughExperince.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "570a13aede3e61cd",
+            "id": "20982fe27c686aeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/EnvironmentDeterminism.md",
+                "file": "Zettlekasten/BootstrapingMonteCarloMethods.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9b29612f714ad1a6",
+            "id": "6dbae9a5673611ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/RelativeRewardPunishmentBalance.md",
+                "file": "Zettlekasten/AlgorithmOfMonteCarloPolicyIteration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddccbd12b812f4d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/OnAndOffPolicyLearning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "201ab744e6c3f8a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/TheReplayBuffer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a53a9ee11884924",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/DynamicProgrammingInRL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d2fbe37d43435a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/ModelFreeAndModelBasedLearningInRL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea074bbe85ddfc76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/AlgorithmOfBootstrappedMonteCarloMethod.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c589e249b49e67b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/MathematicalFormalismOfFunctionApproximationMethods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "885089617fe3a625",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/MathmaticalFormalismOfApproximateFunctionOptimisation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4029fa031d7288c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/MathematicalFormalismTermporalDifferences.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "189221c25961416e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/RLAgentCategorization.md",
                 "mode": "source",
                 "source": false
               }
@@ -229,7 +337,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -274,8 +382,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "14e182a8743c4ebd",
@@ -293,7 +400,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -307,17 +414,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea8bb9eefb044d52",
+  "active": "5152d4e2b11943ad",
   "lastOpenFiles": [
-    "Zettlekasten/TheEnvironment.md",
-    "Zettlekasten/RelativeRewardPunishmentBalance.md",
-    "Zettlekasten/relative.md",
-    "Zettlekasten/Relative.md",
-    "Zettlekasten/ThePolicy.md",
-    "Zettlekasten/TheAgent.md",
-    "Zettlekasten/ConceptOfTimeInRL.md",
-    "Zettlekasten/QuantatyDependenceInRL.md",
-    "Zettlekasten/MathmaticalFormalismOfRLBasics.md",
-    "Zettlekasten/AbsoluteStatesAndStateRepresentations.md"
+    "Zettlekasten/RLAgentCategorization.md",
+    "Zettlekasten/MathematicalFormalismTermporalDifferences.md",
+    "Zettlekasten/MathmaticalFormalismOfApproximateFunctionOptimisation.md",
+    "Zettlekasten/MathematicalFormalismOfTheBellmanEquations.md",
+    "Zettlekasten/OptimisingRLPolicies.md",
+    "Zettlekasten/LearningValueThroughExperince.md",
+    "Zettlekasten/MathematicalFormalismOfLearningThroughExperince.md",
+    "Zettlekasten/AlgorithmOfMonteCarloPolicyIteration.md",
+    "Zettlekasten/MathematicalFormalismOfFunctionApproximationMethods.md",
+    "Zettlekasten/MathematicalFormalismOfPolicyIteration.md"
   ]
 }

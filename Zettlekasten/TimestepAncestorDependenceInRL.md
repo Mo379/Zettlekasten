@@ -7,7 +7,7 @@ Tags: [[TheEpisode]] [[TheActions]]
 
 
 
-# QuantatyDependenceInRL
+# TimestepAncestorDependenceInRL
 
 - This chain of sequence creates a dependence, where the latter state depends on the one before it, this applies for each state that has an ancestor.
 - This is natural given the setup of the RL control problem.

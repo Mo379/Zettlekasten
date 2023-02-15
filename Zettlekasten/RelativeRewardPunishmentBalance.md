@@ -1,9 +1,7 @@
 #### Meta information
 23-02-01, 19:06
 Status: #idea
-Tags: [[TheRewards]] [[]]
-
-
+Tags: [[TheRewards]] 
 
 
 

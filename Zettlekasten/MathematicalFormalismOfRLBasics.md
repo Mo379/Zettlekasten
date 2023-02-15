@@ -28,11 +28,11 @@ $$
 a_t = \pi(s_t)
 $$where ($\pi$) is the policy.
 ___
-If the environment is deterministic, then transitions in the state of the environment can be defined as a function (f) of the state and action.
+The possible transitions given an action in a particular state can be given by the dynamics function (f), If the environment is deterministic, then transitions in the state of the environment can simply as the following:
 $$
 s_{t+1} = f(s_t, a_t)
 $$
-(f) is reffered to as the environment dynamics.
+(f) is reffered to as the environment dynamics, note: if the environment is non-deterministic then we will obtain a set of probabilities for each state instead of the above single state.
 ___
 The reward at each time step, must only depend on the tuples of time steps (aka: the events) around that time step in the trajectory.
 $$
@@ -42,7 +42,7 @@ where punishments are negative values and rewards are positive.
 ___
 Given some initial state ($s_0$), the functions ($\pi$), ($f$) and ($r$) completely determine the trajectory ($\omega_0^T$), the goal of reinforcemnet learning is to find a policy which maximizes the total reward or return from  any given initial state such that: 
 $$
-R(\omega_0T^) = \sum_{t=1}^{T}r_t
+R(\omega_0^T) = \sum_{t=1}^{T}r_t
 $$
 
 # References
