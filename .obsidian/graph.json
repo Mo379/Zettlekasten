@@ -76,13 +76,6 @@
         "a": 1,
         "rgb": 14701138
       }
-    },
-    {
-      "query": "MathematicalFormalism",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
     }
   ],
   "collapse-display": false,
@@ -95,10 +88,6 @@
   "repelStrength": 14.4706738081069,
   "linkStrength": 1,
   "linkDistance": 30,
-<<<<<<< HEAD
-  "scale": 0.5588136046208133,
-=======
-  "scale": 0.027946840467511603,
->>>>>>> origin/master
+  "scale": 0.05154887405041467,
   "close": true
 }

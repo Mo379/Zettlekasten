@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3057720f5595adc7",
+        "id": "56e9eb6bd281bdae",
         "type": "tabs",
         "children": [
           {
-            "id": "5152d4e2b11943ad",
+            "id": "cd63e6eba4105b43",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,258 +16,173 @@
             }
           },
           {
-            "id": "5df64d6c9bb2c3f5",
+            "id": "11cc5166315c1a28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/MathematicalFormalismOfOptimalityInRL.md",
+                "file": "Zettlekasten/RevertingCoarseGrainedToAllAtom.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "adc76d0778344454",
+            "id": "2a2558033b5c6700",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/MathematicalFormalismOfValueFunctioniteration.md",
+                "file": "Zettlekasten/MathematicalFormalismOfPotentialFields.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "feb45772b01a725a",
+            "id": "d2071c0347517b42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/MathematicalFormalismOfPolicyIteration.md",
+                "file": "Zettlekasten/GraphNeuralNetworksForCoarsegrainedMD.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d10889e2f584de59",
+            "id": "970807adbf132e57",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
+            "id": "ea557e88943b85c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/AlgorithmOfPolicyOptimisation.md",
+                "file": "Zettlekasten/ClassifyingInteractions.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5870726ddb8687b9",
+            "id": "5dfde0ab465e2dd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/TheNotionOfGreedyPolicies.md",
+                "file": "Zettlekasten/ClassicalProteinMolecularDynamicsOutline.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6183dfd822013805",
+            "id": "fe2a3a0fea0ff5d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/InLineValueEstimationUpdates.md",
+                "file": "Zettlekasten/HowProteinsAreConstructedInMDSimulations.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "01dd5af910a357ed",
+            "id": "ee7487281c8de2c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/AStateValueUpdateSweep.md",
+                "file": "Zettlekasten/ModellingResolutions.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4ac36cdcca5f8de2",
+            "id": "ebefc3d68057d6de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/TheStateRelevanceProblem.md",
+                "file": "Zettlekasten/ProblemsWithClassicalMD.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "48b7c8985ed891d6",
+            "id": "7a6aaed1a0e8e9ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/LearningValueThroughExperince.md",
+                "file": "Zettlekasten/CoarseGrainedMDSimulation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ddd85254cd96db26",
+            "id": "eec72c51fe2a1998",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/MathematicalFormalismOfLearningThroughExperince.md",
+                "file": "Zettlekasten/ProteinCoarseGrainingModels.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "20982fe27c686aeb",
+            "id": "b29b220c812aa3e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/BootstrapingMonteCarloMethods.md",
+                "file": "Zettlekasten/ParametarisationOfPotentialFields.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6dbae9a5673611ad",
+            "id": "aa21902bc27d7f21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/AlgorithmOfMonteCarloPolicyIteration.md",
+                "file": "Zettlekasten/GNNsForMD.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ddccbd12b812f4d0",
+            "id": "4a7d0bce10f6c991",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/OnAndOffPolicyLearning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "201ab744e6c3f8a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlekasten/TheReplayBuffer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a53a9ee11884924",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlekasten/DynamicProgrammingInRL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d2fbe37d43435a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlekasten/ModelFreeAndModelBasedLearningInRL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea074bbe85ddfc76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlekasten/AlgorithmOfBootstrappedMonteCarloMethod.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c589e249b49e67b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlekasten/MathematicalFormalismOfFunctionApproximationMethods.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "885089617fe3a625",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlekasten/MathmaticalFormalismOfApproximateFunctionOptimisation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4029fa031d7288c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlekasten/MathematicalFormalismTermporalDifferences.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "189221c25961416e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlekasten/RLAgentCategorization.md",
+                "file": "Zettlekasten/JaxMD.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -334,10 +249,11 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettlekasten/RevertingCoarseGrainedToAllAtom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -350,6 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettlekasten/RevertingCoarseGrainedToAllAtom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -371,7 +288,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Zettlekasten/RevertingCoarseGrainedToAllAtom.md"
+              }
             }
           },
           {
@@ -382,7 +301,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "14e182a8743c4ebd",
@@ -400,7 +320,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -409,20 +329,23 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "5152d4e2b11943ad",
+  "active": "11cc5166315c1a28",
   "lastOpenFiles": [
-    "Zettlekasten/RLAgentCategorization.md",
-    "Zettlekasten/MathematicalFormalismTermporalDifferences.md",
-    "Zettlekasten/MathmaticalFormalismOfApproximateFunctionOptimisation.md",
-    "Zettlekasten/MathematicalFormalismOfTheBellmanEquations.md",
-    "Zettlekasten/OptimisingRLPolicies.md",
-    "Zettlekasten/LearningValueThroughExperince.md",
-    "Zettlekasten/MathematicalFormalismOfLearningThroughExperince.md",
-    "Zettlekasten/AlgorithmOfMonteCarloPolicyIteration.md",
-    "Zettlekasten/MathematicalFormalismOfFunctionApproximationMethods.md",
-    "Zettlekasten/MathematicalFormalismOfPolicyIteration.md"
+    "Zettlekasten/RevertingCoarseGrainedToAllAtom.md",
+    "Zettlekasten/GraphNeuralNetworksForCoarsegrainedMD.md",
+    "Day Planners/Day Planner-20230323.md",
+    "Zettlekasten/JaxMD.md",
+    "Zettlekasten/CoarseGrainedMDSimulation.md",
+    "Zettlekasten/ProblemsWithClassicalMD.md",
+    "Zettlekasten/Untitled 5.md",
+    "Zettlekasten/PeriodicBoundaryConditionsInMDSimulations.md",
+    "Zettlekasten/MathematicalFormalismOfPotentialFields.md",
+    "Zettlekasten/ClassicalMolecularDynamics.md",
+    "Zettlekasten/ParametarisationOfPotentialFields.md"
   ]
 }
