@@ -8,27 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cd63e6eba4105b43",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "11cc5166315c1a28",
+            "id": "488980b8dbb69bf1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/RevertingCoarseGrainedToAllAtom.md",
+                "file": "Day Planners/06-11-23.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2a2558033b5c6700",
+            "id": "0f6c3b641f68d9cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/CoreDaily.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30644c0b3f7fc76a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/************************Separator************************.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64b4a36a8e5da621",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/ClassicalMolecularDynamics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e15f9b463b7dcd59",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,34 +68,12 @@
             }
           },
           {
-            "id": "d2071c0347517b42",
+            "id": "ead006704c2cec77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/GraphNeuralNetworksForCoarsegrainedMD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "970807adbf132e57",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
-          },
-          {
-            "id": "ea557e88943b85c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlekasten/ClassifyingInteractions.md",
+                "file": "Zettlekasten/ParametarisationOfPotentialFields.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +92,7 @@
             }
           },
           {
-            "id": "fe2a3a0fea0ff5d0",
+            "id": "dbb5f7cad99865a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,12 +152,12 @@
             }
           },
           {
-            "id": "b29b220c812aa3e9",
+            "id": "d2071c0347517b42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/ParametarisationOfPotentialFields.md",
+                "file": "Zettlekasten/GraphNeuralNetworksForCoarsegrainedMD.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,12 +176,48 @@
             }
           },
           {
-            "id": "4a7d0bce10f6c991",
+            "id": "5dcf296ea22b6c8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/JaxMD.md",
+                "file": "Zettlekasten/MACEGNN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a871da0240f6a88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/************************Separator************************.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58a2f1553a2f1d5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/MathematicalFormalismOfPotentialFields.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f124cebafd9115b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/HowProteinsAreConstructedInMDSimulations.md",
                 "mode": "source",
                 "source": false
               }
@@ -222,10 +264,45 @@
             }
           },
           {
-            "id": "ce6ea04106717c4d",
+            "id": "d6341e87a57b68c6",
             "type": "leaf",
             "state": {
-              "type": "starred",
+              "type": "localgraph",
+              "state": {
+                "file": "Templates/CoreDaily.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 3,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1.19509477459016,
+                  "lineSizeMultiplier": 1.74891777663934,
+                  "collapse-forces": false,
+                  "centerStrength": 0.90234375,
+                  "repelStrength": 16.1654713114754,
+                  "linkStrength": 1,
+                  "linkDistance": 30,
+                  "scale": 0.9934088702304098,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "6fcbf7939cf56fb9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -233,7 +310,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.49999809265137
+    "width": 510.5041847229004
   },
   "right": {
     "id": "8c0ad7d765d1fb26",
@@ -249,7 +326,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlekasten/RevertingCoarseGrainedToAllAtom.md",
+                "file": "Templates/CoreDaily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +343,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlekasten/RevertingCoarseGrainedToAllAtom.md",
+                "file": "Templates/CoreDaily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,7 +366,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlekasten/RevertingCoarseGrainedToAllAtom.md"
+                "file": "Templates/CoreDaily.md"
               }
             }
           },
@@ -303,49 +380,51 @@
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "14e182a8743c4ebd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6dcb993067475a42",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "daily-notes:Open today's daily note": false
     }
   },
-  "active": "11cc5166315c1a28",
+  "active": "0f6c3b641f68d9cc",
   "lastOpenFiles": [
-    "Zettlekasten/RevertingCoarseGrainedToAllAtom.md",
-    "Zettlekasten/GraphNeuralNetworksForCoarsegrainedMD.md",
-    "Day Planners/Day Planner-20230323.md",
-    "Zettlekasten/JaxMD.md",
-    "Zettlekasten/CoarseGrainedMDSimulation.md",
-    "Zettlekasten/ProblemsWithClassicalMD.md",
-    "Zettlekasten/Untitled 5.md",
-    "Zettlekasten/PeriodicBoundaryConditionsInMDSimulations.md",
-    "Zettlekasten/MathematicalFormalismOfPotentialFields.md",
+    "Day Planners/06-11-23.md",
+    "Zettlekasten/MACEGNN.md",
+    "Zettlekasten/************************Separator************************.md",
+    "Templates/CoreDaily.md",
+    "Day Planners/06112023.md",
     "Zettlekasten/ClassicalMolecularDynamics.md",
-    "Zettlekasten/ParametarisationOfPotentialFields.md"
+    "Zettlekasten/ParametarisationOfPotentialFields.md",
+    "Day Planners",
+    "Zettlekasten/HowProteinsAreConstructedInMDSimulations.md",
+    "Zettlekasten/MathematicalFormalismOfPotentialFields.md",
+    "Zettlekasten/ProblemsWithClassicalMD.md",
+    "Zettlekasten/ClassicalProteinMolecularDynamicsOutline.md",
+    "Zettlekasten/ModellingResolutions.md",
+    "Zettlekasten/GNNsForMD.md",
+    "Zettlekasten/GraphNeuralNetworksForCoarsegrainedMD.md",
+    "Zettlekasten/CoarseGrainedMDSimulation.md",
+    "Zettlekasten/ProteinCoarseGrainingModels.md",
+    "Zettlekasten/LanguageTransfer_2.md",
+    "Zettlekasten/JaxMD.md",
+    "Zettlekasten/CV&PersonalWebsite.md",
+    "Zettlekasten/ProfessionalLife.md",
+    "Zettlekasten/LifeMap.md",
+    "Zettlekasten/Friends.md",
+    "Zettlekasten/LanguageTransfer_1.md",
+    "palace.md",
+    "Zettlekasten/Jax.md",
+    "Zettlekasten/LanguageTransferFrench.md"
   ]
 }

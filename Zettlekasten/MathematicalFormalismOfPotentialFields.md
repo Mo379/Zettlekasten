@@ -13,7 +13,7 @@ Tags: [[ClassicalMolecularDynamics]]
 	- Classical molecular dynamics (force fields)
 	- Solving the schrodinger equation
 	- Mixed
-- Note that there are different force fields, and the difference between them is how we group/aggregigate/calculate the energy from the individual interactions.
+- Note that there are different force fields, and the difference between them is how we group/aggregate/calculate the energy from the individual interactions.
 ___
 Since we are dealing with moleucles, Interactions can be grouped into two catagories, Bounded interactions and non-bounded interactions.
 
