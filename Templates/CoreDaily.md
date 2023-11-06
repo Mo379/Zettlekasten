@@ -1,13 +1,19 @@
-### Daily Summary
+# Daily Summary
 ----
 Use this note to save anything you want for the day
 
 
-### Jot Things down here
+
+# To do 
 ---
+- [ ] Open Daily Note
+
+
+
+
+# Jot Things down here
+---
+#### Title
+
 Use this area to list good ideas that you got today.
 
-
-### To Do
-___
-- [ x ] Open daily planner

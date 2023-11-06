@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "488980b8dbb69bf1",
+            "id": "ed4e0e69d63bc305",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Day Planners/06-11-23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f6c3b641f68d9cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/CoreDaily.md",
                 "mode": "source",
                 "source": false
               }
@@ -200,31 +188,55 @@
             }
           },
           {
-            "id": "58a2f1553a2f1d5e",
+            "id": "cd29e133c8383def",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/MathematicalFormalismOfPotentialFields.md",
+                "file": "Zettlekasten/Probability.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5f124cebafd9115b",
+            "id": "8a2477bc4829457d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/HowProteinsAreConstructedInMDSimulations.md",
+                "file": "Zettlekasten/Outcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c54d07202d6f8c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/RandomVariable.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08dbcf96dd9005ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/SampleSpace.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 18,
         "stacked": true
       }
     ],
@@ -269,7 +281,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Templates/CoreDaily.md",
+                "file": "Zettlekasten/SampleSpace.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -292,25 +304,26 @@
                   "repelStrength": 16.1654713114754,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.9934088702304098,
+                  "scale": 1.2713786265773874,
                   "close": true
                 }
               }
             }
           },
           {
-            "id": "6fcbf7939cf56fb9",
+            "id": "5c36105d84ae03ab",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 510.5041847229004
+    "width": 429.50418853759766
   },
   "right": {
     "id": "8c0ad7d765d1fb26",
@@ -326,7 +339,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/CoreDaily.md",
+                "file": "Zettlekasten/SampleSpace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,7 +356,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/CoreDaily.md",
+                "file": "Zettlekasten/SampleSpace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -366,7 +379,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/CoreDaily.md"
+                "file": "Zettlekasten/SampleSpace.md"
               }
             }
           },
@@ -377,9 +390,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "1a51f13b89546168",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -394,37 +415,38 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "0f6c3b641f68d9cc",
+  "active": "d6341e87a57b68c6",
   "lastOpenFiles": [
-    "Day Planners/06-11-23.md",
-    "Zettlekasten/MACEGNN.md",
-    "Zettlekasten/************************Separator************************.md",
-    "Templates/CoreDaily.md",
-    "Day Planners/06112023.md",
+    "Zettlekasten/Probability.md",
     "Zettlekasten/ClassicalMolecularDynamics.md",
+    "Zettlekasten/************************Separator************************.md",
+    "Day Planners/06-11-23.md",
     "Zettlekasten/ParametarisationOfPotentialFields.md",
-    "Day Planners",
-    "Zettlekasten/HowProteinsAreConstructedInMDSimulations.md",
-    "Zettlekasten/MathematicalFormalismOfPotentialFields.md",
-    "Zettlekasten/ProblemsWithClassicalMD.md",
     "Zettlekasten/ClassicalProteinMolecularDynamicsOutline.md",
+    "Zettlekasten/CoarseGrainedMDSimulation.md",
+    "Zettlekasten/SampleSpace.md",
+    "Zettlekasten/RandomVariable.md",
+    "Zettlekasten/Outcome.md",
+    "Templates/CoreDaily.md",
+    "Zettlekasten/MACEGNN.md",
+    "Zettlekasten/MathematicalFormalismOfPotentialFields.md",
+    "Zettlekasten/HowProteinsAreConstructedInMDSimulations.md",
+    "Day Planners/06112023.md",
+    "Day Planners",
+    "Zettlekasten/ProblemsWithClassicalMD.md",
     "Zettlekasten/ModellingResolutions.md",
     "Zettlekasten/GNNsForMD.md",
     "Zettlekasten/GraphNeuralNetworksForCoarsegrainedMD.md",
-    "Zettlekasten/CoarseGrainedMDSimulation.md",
     "Zettlekasten/ProteinCoarseGrainingModels.md",
     "Zettlekasten/LanguageTransfer_2.md",
     "Zettlekasten/JaxMD.md",
     "Zettlekasten/CV&PersonalWebsite.md",
     "Zettlekasten/ProfessionalLife.md",
     "Zettlekasten/LifeMap.md",
-    "Zettlekasten/Friends.md",
-    "Zettlekasten/LanguageTransfer_1.md",
-    "palace.md",
-    "Zettlekasten/Jax.md",
-    "Zettlekasten/LanguageTransferFrench.md"
+    "Zettlekasten/Friends.md"
   ]
 }
